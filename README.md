@@ -23,12 +23,16 @@ git clone https://github.com/gautamdikshya55-lang/Chinabazzar.git
 
 #Navigate to the project folder:
 cd Chinabazzar
+
 #Install dependencies:
 npm install
+
 #Run the development server:
 npm run dev
+
 #Build for production:
 npm run build
+
 #Start the production server:
 npm start
 
@@ -47,7 +51,7 @@ Multi-sale banner grid
 Static/dummy product data stored locally
 Footer with payment logos and app store buttons
 
-#Bonus features (if implemented)
+#Bonus features
 Consistent layout container using section-shell
 Next.js image optimization with remotePatterns
 Clean folder structure with separation of layout, UI, and home components
@@ -59,7 +63,8 @@ Vercel will automatically detect the Next.js framework.
 No environment variables are required.
 Add external image domains in next.config.ts:
 
-images: {
+images: 
+{
   remotePatterns: [
     { protocol: "https", hostname: "images.pexels.com" },
     { protocol: "https", hostname: "upload.wikimedia.org" },

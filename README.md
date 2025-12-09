@@ -3,7 +3,8 @@ This is a frontend-only e-commerce homepage built with Next.js (App Router), Rea
 
 #Project Links
 
-Live Demo (Vercel):(https://chinabazzar.vercel.app/)](https://chinabazzar-rbevsh2wd-gautamdikshya55-langs-projects.vercel.app)
+ Live Demo (Vercel): [https://chinabazzar.vercel.app/](https://chinabazzar.vercel.app/)
+
 
 GitHub Repository: https://github.com/gautamdikshya55-lang/Chinabazzar
 

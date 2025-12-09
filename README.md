@@ -82,13 +82,16 @@ Mobile View
 
 
 Header and Navigation
+
 <img width="1338" height="514" alt="image" src="https://github.com/user-attachments/assets/ff3f296d-eec6-489d-b9d0-de8697e1eff7" />
 
 
 Product Sections
+
 <img width="742" height="724" alt="image" src="https://github.com/user-attachments/assets/fec0bfc3-5a81-42c5-998a-00acff45c5bd" />
 
 Footer Sections
+
 <img width="1059" height="386" alt="image" src="https://github.com/user-attachments/assets/a7dfb6a0-8451-4b19-8835-c1abea4f7df4" />
 
 III.Assumptions
@@ -101,7 +104,6 @@ No backend or API integration was needed
 #Project structure
 Chinabazzar/
 Frontend/ Next.js application
-
 Chinabazzar/
   src/
     app/

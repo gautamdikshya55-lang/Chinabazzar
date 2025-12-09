@@ -93,9 +93,15 @@ Header and Navigation
 
 Product Sections
 
-<img width="742" height="724" alt="image" src="https://github.com/user-attachments/assets/fec0bfc3-5a81-42c5-998a-00acff45c5bd" />
+<img width="993" height="742" alt="image" src="https://github.com/user-attachments/assets/a6a436cf-efbc-4380-bb8d-d85f2b1c58a9" />
+
+<img width="1020" height="763" alt="image" src="https://github.com/user-attachments/assets/d3d9553b-10f1-422f-9339-3f48656f64c2" />
+
+<img width="986" height="329" alt="image" src="https://github.com/user-attachments/assets/0a920281-d417-4491-a528-640d9707b20a" />
+
 
 Footer Sections
+
 
 <img width="1059" height="386" alt="image" src="https://github.com/user-attachments/assets/a7dfb6a0-8451-4b19-8835-c1abea4f7df4" />
 

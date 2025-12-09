@@ -76,8 +76,8 @@ Desktop View
 <img width="1655" height="927" alt="image" src="https://github.com/user-attachments/assets/c33a936a-d14b-4630-becf-f0fe03ea176d" />
 
 
-Mobile View
-./screenshots/mobile.png
+                                     Mobile View
+
 <img width="525" height="923" alt="image" src="https://github.com/user-attachments/assets/f65a0f11-eba4-4039-8841-33dd56ed86ce" />
 
 

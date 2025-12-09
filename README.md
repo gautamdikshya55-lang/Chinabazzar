@@ -3,7 +3,7 @@ This is a frontend-only e-commerce homepage built with Next.js (App Router), Rea
 
 #Project Links
 
-Live Demo (Vercel): chinabazzar-7q35zdpt2-gautamdikshya55-langs-projects.vercel.app
+Live Demo (Vercel):chinabazzar-rbevsh2wd-gautamdikshya55-langs-projects.vercel.app
 
 GitHub Repository: https://github.com/gautamdikshya55-lang/Chinabazzar
 
@@ -75,15 +75,19 @@ II.Screenshots
 Desktop View
 <img width="1655" height="927" alt="image" src="https://github.com/user-attachments/assets/c33a936a-d14b-4630-becf-f0fe03ea176d" />
 
+
 Mobile View
 ./screenshots/mobile.png
 <img width="525" height="923" alt="image" src="https://github.com/user-attachments/assets/f65a0f11-eba4-4039-8841-33dd56ed86ce" />
 
+
 Header and Navigation
 <img width="1338" height="514" alt="image" src="https://github.com/user-attachments/assets/ff3f296d-eec6-489d-b9d0-de8697e1eff7" />
 
+
 Product Sections
 <img width="742" height="724" alt="image" src="https://github.com/user-attachments/assets/fec0bfc3-5a81-42c5-998a-00acff45c5bd" />
+
 Footer Sections
 <img width="1059" height="386" alt="image" src="https://github.com/user-attachments/assets/a7dfb6a0-8451-4b19-8835-c1abea4f7df4" />
 
